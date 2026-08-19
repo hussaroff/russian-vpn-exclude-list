@@ -4,6 +4,7 @@ ru.sberbankmobile
 com.idamob.tinkoff.android
 ru.vtb24.mobilebanking.android
 ru.alfabank.mobile.android
+ru.burgerking
 
 ru.yandex.market
 ru.beru.android
